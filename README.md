@@ -1,6 +1,3 @@
-# Uper-data-analysis-project
-Exploratory Data Analysis (EDA) of Uber ride data in NYC. Analyzes temporal trends like hourly, daily, and monthly ride patterns using Python (Pandas, Matplotlib, Seaborn). Visualizes insights to identify user behavior, peak demand times, and ride distributions.
-
 Uber Data Exploratory Data Analysis (EDA)
 =========================================
 
@@ -39,5 +36,3 @@ Future Work:
 - Expand analysis to other cities or years.
 - Develop predictive models.
 
-Author:
-For questions or collaboration, contact: [your-email@example.com]
