@@ -1,4 +1,4 @@
-Uber Data Exploratory Data Analysis (EDA)
+Uber Data Exploratory Data Analysis 
 =========================================
 
 Overview:
